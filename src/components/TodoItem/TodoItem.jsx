@@ -1,5 +1,5 @@
 export const UserCard = ({ userTweet }) => {
-    const {user, avatar, tweets, followers, following}= userTweet
+    const {user, avatar, tweets, followers}= userTweet
   return (
     <div>
       <div>
