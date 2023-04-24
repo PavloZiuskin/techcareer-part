@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/techcareer-part/static/js/main.0d1e74d1.js",
+    "main.css": "/techcareer-part/static/css/main.e6c13ad2.css",
+    "main.js": "/techcareer-part/static/js/main.f3da7697.js",
+    "static/media/Background.png": "/techcareer-part/static/media/Background.010ab3c33bc13f300d33.png",
     "index.html": "/techcareer-part/index.html",
-    "main.0d1e74d1.js.map": "/techcareer-part/static/js/main.0d1e74d1.js.map"
+    "main.e6c13ad2.css.map": "/techcareer-part/static/css/main.e6c13ad2.css.map",
+    "main.f3da7697.js.map": "/techcareer-part/static/js/main.f3da7697.js.map"
   },
   "entrypoints": [
-    "static/js/main.0d1e74d1.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f3da7697.js"
   ]
 }
